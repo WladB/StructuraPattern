@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Structura\Structura\bin\Debug\Structura.exe.config
+C:\Users\User\source\repos\Structura\Structura\bin\Debug\Structura.exe
+C:\Users\User\source\repos\Structura\Structura\bin\Debug\Structura.pdb
+C:\Users\User\source\repos\Structura\Structura\obj\Debug\Structura.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Structura\Structura\obj\Debug\Structura.Form1.resources
+C:\Users\User\source\repos\Structura\Structura\obj\Debug\Structura.Properties.Resources.resources
+C:\Users\User\source\repos\Structura\Structura\obj\Debug\Structura.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Structura\Structura\obj\Debug\Structura.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Structura\Structura\obj\Debug\Structura.exe
+C:\Users\User\source\repos\Structura\Structura\obj\Debug\Structura.pdb
